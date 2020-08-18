@@ -1,9 +1,0 @@
-{
-  "name": "LiquidBarrel",
-  "version": "0.1.1",
-  "title": "Liquid Barrel",
-  "author": "gogglebot",
-  "factorio_version": "0.18",
-  "dependencies": ["base >= 0.18"],
-  "description": "Adds a new fluid: liquified barrels."
-}
