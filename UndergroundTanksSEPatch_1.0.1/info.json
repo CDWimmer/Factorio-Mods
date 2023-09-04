@@ -1,0 +1,10 @@
+{
+	"name": "UndergroundTanksSEPatch",
+	"version": "1.0.1",
+	"factorio_version": "1.1",
+	"title": "Underground Storage Tanks SE Patch",
+	"author": "Ch4rl1e",
+	"homepage": "https://mods.factorio.com/mod/UndergroundTanksSEPatch",
+	"description": "A patch for Underground Storage Tanks that enables them to be placed in space in the Space Exploration mod.",
+	"dependencies": ["base >= 1.1.0", "UndergroundTanks >=1.0.1"]
+}
